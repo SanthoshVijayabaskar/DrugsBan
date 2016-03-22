@@ -38,4 +38,10 @@ captures/
 # Keystore files
 *.jks
 
+<<<<<<< Updated upstream
 .idea/workspace.xml
+=======
+.idea/workspace.xml
+
+.idea/misc.xml
+>>>>>>> Stashed changes

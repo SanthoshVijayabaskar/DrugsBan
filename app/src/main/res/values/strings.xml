@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">DrugsBan</string>
+    <string name="edtsearch">Search Your Drug...</string>
 </resources>
